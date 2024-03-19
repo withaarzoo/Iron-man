@@ -1,6 +1,6 @@
 # Animated Iron-man
 
-This project features an animated depiction of Iron Man using HTML and CSS. It showcases various components of Iron Man's suit with accompanying animations, creating a visually engaging experience .
+This project features an animated depiction of Iron Man using HTML and CSS. It showcases various components of Iron Man's suit with accompanying animations, creating a visually engaging experience.
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Iron-man/assets/59678435/fed41443-9ac4-40bf-8bb7-0ffaa0ba5f64)
